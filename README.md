@@ -4,7 +4,6 @@ Dette holder seg tro til originalen, men med litt bedre flyt.
 
 The **purpose** of this testing is to improve mobile penetration testing skills ahead of my bachelor's thesis.
 
-## 📌 Lab Setup
 [Lab Setup](lab_setup.md)
 
 ## 🚩 Flags
