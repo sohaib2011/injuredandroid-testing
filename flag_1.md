@@ -8,10 +8,10 @@
 
 3. After opening .APK in JADX, we can navigate to the **b3nac.injuredandroid** package and locate the source code for **FlagOneLoginActivity**, as shown below:
  
-   <img src="https://github.com/user-attachments/assets/cea7eedf-fae8-4b54-99b3-05846bb003ba" width="700">  
+   <img src="https://github.com/user-attachments/assets/cea7eedf-fae8-4b54-99b3-05846bb003ba" width="650">  
 
 4. By exploring this activity, we find a function responsible for handling user input.
    
-   <img src="https://github.com/user-attachments/assets/ed7eae67-b9f2-4d10-a425-93d2e033e2d4" width="700">  
+   <img src="https://github.com/user-attachments/assets/ed7eae67-b9f2-4d10-a425-93d2e033e2d4" width="650">  
 
    This becomes evident that the function compares the entered value against a predefined string 'F1ag_0n3', which reveals the flag.
