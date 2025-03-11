@@ -14,7 +14,8 @@
 2. Click on **"Releases"** on the right side of the page.
 3. Download the latest **APK file**.
 
-We want to download the APK onto our Android emulator to thoroughly conduct a penetration test of the application. Here, we will analyze its behavior, intercept the traffic, and test for vulnerabilities.
+We want to download the APK onto our Android emulator to thoroughly conduct a penetration test of the application.
+Here, we will analyze its behavior, intercept the traffic, and test for vulnerabilities.
 
 ---
 
@@ -29,14 +30,16 @@ We want to download the APK onto our Android emulator to thoroughly conduct a pe
    
    As shown in the images above, the application has been successfully installed inside the emulator.  
 
+---
 
-### Now, for further flags and tasks, we need to run the emulator and interact with it through ADB shell.
+📌 **Note:** Before proceeding with flags and tasks, we need to set up the emulator and run ADB, as some tasks may require it.
 
-5. Start an emulator so we can interact with it in the ADB shell:  
+
+2. Start an emulator so we can interact with it in the ADB shell:  
    
    <img src="https://github.com/user-attachments/assets/f0b22ec3-b76b-4047-9f88-ebd707901897" width="400">
 
-6. To ensure that we can interact with the emulator through the terminal, run:  
+3. To ensure that we can interact with the emulator through the terminal, run:  
    **adb shell**
    
    <img src="https://github.com/user-attachments/assets/437f9cd2-954c-4458-8470-e3efda2dcdc9" width=400>
