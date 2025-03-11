@@ -28,7 +28,14 @@ Here, we will analyze its behavior, intercept the traffic, and test for vulnerab
     
    <img src="https://github.com/user-attachments/assets/e0377c1e-8711-4c39-9d24-c73da04c0d6f" width="400" height="50">
    
-   As shown in the images above, the application has been successfully installed inside the emulator.  
+   As shown in the images above, the application has been successfully installed inside the emulator.
+
+   <br>
+
+3. Once installed, we can run the application to confirm that it is functioning properly, including the flag overview:
+
+<img src="https://github.com/user-attachments/assets/ddb1f661-b1f0-4be8-979b-e8099e369526" width="200">
+
 
 ---
 
