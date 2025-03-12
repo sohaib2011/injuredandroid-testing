@@ -21,7 +21,7 @@ AndroidManifest is the core config file for the app, and among the key component
 
  
  To exploit this, we can run the following command:
- <img src="https://github.com/user-attachments/assets/7f24ecbb-496b-408f-9cb7-61aab73988ba" width="100">
+ <img src="https://github.com/user-attachments/assets/7f24ecbb-496b-408f-9cb7-61aab73988ba">
 
 part between / is the package name, and the part after is the activity being launched.
 
