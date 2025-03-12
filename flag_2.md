@@ -1,4 +1,4 @@
-# Flag 2 - FlagTwoActivity
+# Flag 2 - FlagTwoActivity (currently working on the setup)
 
 <img src="https://github.com/user-attachments/assets/88182862-75dd-4adf-befd-7450154243ca" width="150">
 
@@ -21,7 +21,7 @@ AndroidManifest is the core config file for the app, and among the key component
 
  
  To exploit this, we can run the following command:
- <img src="https://github.com/user-attachments/assets/7f24ecbb-496b-408f-9cb7-61aab73988ba">
+ <img src="https://github.com/user-attachments/assets/7f24ecbb-496b-408f-9cb7-61aab73988ba" width="100">
 
 part between / is the package name, and the part after is the activity being launched.
 
