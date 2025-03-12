@@ -6,4 +6,7 @@ The **purpose** of this testing is to improve mobile penetration testing skills 
 [Lab Setup](lab_setup.md)
 
 ## 🚩 Flags
-[Flag 1](flag_1.md) (in work)
+[Flag 1](flag_1.md)
+[Flag 2](flag_2.md)
+[Flag 3](flag_1.md)
+[Flag 4](flag_1.md)
