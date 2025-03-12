@@ -17,5 +17,5 @@
    This becomes evident that the function compares the entered value against a predefined string 'F1ag_0n3', which will reveal the flag. Lets test it out on the actual application...
 
 5. We have a match! Looks like the string'Flag_0n3' is the correct flag
-![image](https://github.com/user-attachments/assets/679105bf-a5cd-4de0-81ce-f04740939616)
+<img src="https://github.com/user-attachments/assets/679105bf-a5cd-4de0-81ce-f04740939616" width="200">
 
