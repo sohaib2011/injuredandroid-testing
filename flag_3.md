@@ -19,6 +19,6 @@ Tried searching for any clues directly in AndroidManifest.xml with no luck. The 
    
    <img src="https://github.com/user-attachments/assets/754469be-7b37-4ef4-87b7-c97649b3325c" width=400>
 
-3. Well that was easy
+3. Seems to be a match!
    
    <img src="https://github.com/user-attachments/assets/af04dcd9-94aa-4783-8bf2-1194c8789601" width=200>
