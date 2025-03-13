@@ -1,16 +1,28 @@
-# Flag 2 - FlagTwoActivity (currently working on the setup)
+# Flag 2 - FlagTwoActivity
 
 <img src="https://github.com/user-attachments/assets/88182862-75dd-4adf-befd-7450154243ca" width="150">
 
-**Hint #1** - Key words Activity and Exported
+#### **Hint #1**  
+Key words: **Activity** and **Exported**  
 
-**Hint #2** - Exported activities can be accessed with adb
+#### **Hint #2**  
+Exported activities can be accessed with **ADB**
 
+---
 
-The provided hints gave us a lead regardin the flag, indicating that we should delve deeper into the AndroidManifest.xml sourcecode.
+The provided hints gave us a lead regarding the flag, indicating that we should delve deeper into the **AndroidManifest.xml** source code.  
+
 AndroidManifest is the core config file for the app, and among the key components is **Activity**.
 
-1. 237 lines of code so we can narrow down our search to 'exported="true" to find what we want to look for. As a result we found potential matches; one being b3nac.injuredandroid.b25lActivity, and another b3nac.injuredandroid.QXV0aA
+---
+
+1. With **237 lines of code**, we can narrow down our search to `exported="true"` to find relevant activities.  
+As a result, we found two potential matches:
+
+- **b3nac.injuredandroid.b25lActivity**  
+- **b3nac.injuredandroid.QXV0aA**
+
+  
 <img src="https://github.com/user-attachments/assets/1a29c297-17a2-4c7d-942d-2a80a32d3cb0" width="500">
 
 
@@ -21,9 +33,10 @@ AndroidManifest is the core config file for the app, and among the key component
 
  
  To exploit this, we can run the following command:
- <img src="https://github.com/user-attachments/assets/7f24ecbb-496b-408f-9cb7-61aab73988ba" width="100">
+ <img src="https://github.com/user-attachments/assets/7f24ecbb-496b-408f-9cb7-61aab73988ba" width=1600>
 
-part between / is the package name, and the part after is the activity being launched.
+The part between `/` is the **package name**, and the part after is the **activity** being launched.  
+
 
 3. By launching the exported activity directly, we managed to bypass the FlagTwoactivity screen and discovered a hidden flag
 <img src="https://github.com/user-attachments/assets/14a0aedd-502a-4d53-9abe-46569ac931cf" width="200">
