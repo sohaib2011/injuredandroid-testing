@@ -1,4 +1,4 @@
-# Flag 2 - FlagTwoActivity
+# Flag 2 - Exported Activity
 
 <img src="https://github.com/user-attachments/assets/88182862-75dd-4adf-befd-7450154243ca" width="150">
 
