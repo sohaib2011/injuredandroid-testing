@@ -16,4 +16,8 @@ The **purpose** of this testing is to improve mobile penetration testing skills 
 
 [Flag 5](flag_5.md)
 
-[Flag 6](flag_6.md) (in work)
+[Flag 6](flag_6.md) (not started)
+
+[Flag 7](flag_7.md) (not started)
+
+[Flag 8](flag_8.md) (in work)
