@@ -10,4 +10,4 @@ python3 cloud_enum.py -k <company>, for script to enumerate s3 buckets through u
 aws configure --profile <company>
 
 
-s3 ls s3://<bucket>
+s3 ls s3://bucket_name
