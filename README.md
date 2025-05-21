@@ -3,7 +3,7 @@ Injured Android is a CTF-like application designed for mobile penetration testin
 
 The **purpose** of this testing is to improve mobile penetration testing skills ahead of my bachelor's thesis.
 
-[Lab Setup](lab_setup.md)
+[Lab Setup](0lab_setup.md)
 
 ## 🚩 Flags
 [Flag 1](flag_1.md)
